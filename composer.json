@@ -1,0 +1,14 @@
+{
+    "name": "free/hosting",
+    "description": "Free web hosting (auto create account)",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dz-id",
+            "email": "dulah755@gmail.com"
+        }
+    ],
+    "require": {
+        "league/climate": "^3.6"
+    }
+}
